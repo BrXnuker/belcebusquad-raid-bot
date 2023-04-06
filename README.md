@@ -24,7 +24,8 @@ https://discord.gg/belcebusquad
 - Let him finish installing the requirements
 - Open the `start.bat`
 - When it starts, it will prompt you to place the bot token. copy and paste it.
-- Enter, you will have the bot online. 
+- Enter, you will have the bot online.
+https://media.discordapp.net/attachments/1089591287667249252/1093559109237878804/image.png 
 
 Make sure you are on our discord! --> https://discord.gg/belcebusquad
 and my shop --> https://discord.gg/brxshop
